@@ -14,7 +14,9 @@ Eat-N-Split is a web application built with React that simplifies splitting bill
 - JavaScript
 - HTML/CSS
 
-## How to Use
+## Setup
+
+To run this project locally:
 
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
